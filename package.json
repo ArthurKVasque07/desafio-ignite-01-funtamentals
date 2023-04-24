@@ -1,0 +1,12 @@
+{
+  "name": "desafio-ignite-01-funtamentals",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Bootcamp Ignite - Challange 01",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
